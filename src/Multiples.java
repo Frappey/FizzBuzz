@@ -1,9 +1,9 @@
 public class Multiples {
     public static void main(String[] args) {
-        System.out.println(Multiple());
+        System.out.println(multiple());
     }
 
-    private static int Multiple() {
+    private static int multiple() {
         int i = 0;
         int tot = 0;
         while (i <= 1000) {
